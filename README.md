@@ -13,7 +13,7 @@
 
 - 👯 I’m looking for job in a **Web Dev position**
 
-- 👨‍💻 Tale a look at some of my projects at **[My Portfolio](https://abdullah-nazari.netlify.app/)**
+- 👨‍💻 Take a look at some of my projects at **[My Portfolio](https://abdullah-nazari.netlify.app/)**
 
 - 📫 How to reach me **abdullahnazari2001@gmail.com**
 
