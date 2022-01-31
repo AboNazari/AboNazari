@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Random Projects**
+- 🔭 I’m currently working on **Jasha Project**
 
 - 🌱 I’m currently learning **OOP and algorithms in JS**
 
