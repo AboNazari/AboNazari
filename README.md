@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Jasha Project**
 
-- 🌱 I’m currently learning **OOP and algorithms in JS**
+- 🌱 I’m currently learning **NodeJS**
 
 - 👯 I’m looking for job in a **Web Dev position**
 
