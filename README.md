@@ -40,8 +40,8 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/abdullah-2021-D/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdullah Nazari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah-2021-D&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/AboNazari/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abdullah Nazari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=AboNazari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
@@ -50,14 +50,14 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/abdullah-2021-D/github-readme-stats"><img alt="Abdullah Nazari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abdullah-2021-D&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/abdullah-2021-D/github-readme-stats"><img alt="Abdullah Nazari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah-2021-D&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/AboNazari/github-readme-stats"><img alt="Abdullah Nazari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AboNazari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/AboNazari/github-readme-stats"><img alt="Abdullah Nazari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AboNazari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
 <br/>
 <br/>
 
-<a href="https://github.com/abdullah-2021-D/github-readme-activity-graph"><img alt="Abdullah Nazari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abdullah-2021-D&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a>
+<a href="https://github.com/AboNazari/github-readme-activity-graph"><img alt="Abdullah Nazari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AboNazari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /> </a>
 
 <br/>
 <br/>
@@ -79,9 +79,9 @@
 ## ❤ Views and Followers 
 
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=abdullah-2021-D">
+    <img src="https://komarev.com/ghpvc/?username=AboNazari">
 </a>
-<a href="https://github.com/abdullah-2021-D?tab=followers"><img src="https://img.shields.io/github/followers/abdullah-2021-D?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/AboNazari?tab=followers"><img src="https://img.shields.io/github/followers/AboNazari?label=Followers&style=social" alt="GitHub Badge"></a>
 </br>
 
 <a href="#"><img width="50"  src="./close.png" height="60px"/></a>
