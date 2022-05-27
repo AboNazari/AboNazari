@@ -1,7 +1,7 @@
 <a href="#"><img width="50"  src="./open.png" height="50px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abdullah ⭐</h1>
-<h3 align="center">𝐈 𝐚𝐦 𝐚 𝐰𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 , 𝐚𝐧𝐝 𝐚𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐟𝐮𝐭𝐮𝐫𝐞 𝐁𝐥𝐨𝐜𝐤𝐂𝐡𝐚𝐢𝐧 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫. </h3>
+<h3 align="center">𝐈 𝐚𝐦 𝐚 𝐰𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫, 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐒𝐭𝐮𝐝𝐞𝐧𝐭 , 𝐚𝐧𝐝 𝐚𝐧 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭𝐢𝐜 𝐟𝐮𝐭𝐮𝐫𝐞 Software 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫. </h3>
 
 ---
 
