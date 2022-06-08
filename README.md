@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Jasha Project**
+- 🔭 I’m currently working on **YellowSpace Student Magazine**
 
 - 🌱 I’m currently learning **NodeJS**
 
