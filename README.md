@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **YellowSpace Student Magazine**
 
-- 🌱 I’m currently learning **NodeJS**
+- 🌱 I’m currently learning **DSA + JS +REACTJS**
 
 - 👨‍💻 Take a look at some of my projects at **[My Portfolio](https://abdullah-nazari.netlify.app/)**
 
