@@ -28,7 +28,8 @@
 
 - For instance, take a look at this ternary operator '?':
 
-// taken from a well-known javascript library
+// taken from a well-known javascript library.
+
 i = i ? i < 0 ? Math.max(0, len + i) : i : 0;
 
 
