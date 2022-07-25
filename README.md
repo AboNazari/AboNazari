@@ -17,6 +17,7 @@
 
 - ⚡ Fun fact about me is that **I am big fun of public speaking and DeFi.**
 
+- 💡 Learning without thought is labor lost; thought without learning is perilous.**
 ---
 
 ## 🚀 Languages and Tools:
