@@ -20,20 +20,6 @@
 - 💡 Learning without thought is labor lost; thought without learning is perilous.**
 ---
 
-**Brevity is the soul of wit**
-
-- Make the code as short as possible. Show how smart you are.
-
-- Let subtle language features guide you.
-
-- For instance, take a look at this ternary operator '?':
-
-// taken from a well-known javascript library.
-
-i = i ? i < 0 ? Math.max(0, len + i) : i : 0;
-**For God sake don't write this type of code**
-
-
 ---
 ## 🚀 Languages and Tools:
 
