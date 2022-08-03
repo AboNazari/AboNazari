@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **abdullahnazari2001@gmail.com**
 
-- ⚡ Fun fact about me is that **I am big fun of public speaking and DeFi.**
+- ⚡ Fun fact about me is that **I am big fun of public speaking.**
 
 - 💡 Learning without thought is labor lost; thought without learning is perilous.**
 ---
