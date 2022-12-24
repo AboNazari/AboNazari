@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **YellowSpace Student Magazine**
+- 🔭 I’m currently working on **Edgu-Bilig Magazine**
 
-- 🌱 I’m currently learning **DSA + JS +REACTJS**
+- 🌱 I’m currently learning **OOP with JAVA - Shoppfiy Ecosystem**
 
 - 👨‍💻 Take a look at some of my projects at **[My Portfolio](https://abdullah-nazari.netlify.app/)**
 
