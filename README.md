@@ -7,9 +7,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Edgu-Bilig Magazine**
+- 🔭 I’m currently working on **KAAJ Education**
 
-- 🌱 I’m currently learning **OOP with JAVA - Shoppfiy Ecosystem**
+- 🌱 I’m currently learning **Node-Mongo and DSA in C++**
 
 - 👨‍💻 Take a look at some of my projects at **[My Portfolio](https://abdullah-nazari.netlify.app/)**
 
