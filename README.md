@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **PyTorch and Neural Nets**
 
-- 👨‍💻 Take a look at some of my projects at **[My Portfolio]([https://abo.codes/](https://abo.codes/)**
+- 👨‍💻 Take a look at some of my projects at **[My Portfolio]([https://abo.codes/](https://abo.codes/))**
 
 - 📫 How to reach me **abdullahnazari2001@gmail.com**
 
